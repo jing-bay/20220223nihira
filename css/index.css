@@ -140,7 +140,7 @@ a {
 }
 
 .service__item{
-  width: 100%;
+  width: 50%;
   padding: 10px;
   margin: 10px;
 }
@@ -153,11 +153,41 @@ a {
   width: 40%;
 }
 
+.service__foot{
+  width: 100%;
+  margin: 30px 500px;
+}
+
+
 .service__btn{
   display: inline-block;
   text-align: center;
   background-color:#CD0424;
   color: white;
   font-weight: bold;
-  padding: 15px 30px;
+  padding: 15px 80px;
+}
+
+.news{
+  background-color: #222;
+  padding: 60px 100px;
+  margin-top: 80px;
+}
+
+.news__top{
+  display: flex;
+}
+
+
+.news__btn{
+  display: inline-block;
+  text-align: center;
+  background-color:#CD0424;
+  color: white;
+  font-weight: bold;
+}
+
+.news__ttl{
+  color: white;
+  font-size: 30px;
 }
