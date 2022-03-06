@@ -140,17 +140,17 @@ a {
 }
 
 .service__item{
-  width: 50%;
+  width: 40%;
   padding: 10px;
   margin: 10px;
 }
 
 .service__item__paragraph{
-  width: 40%;
+  width: 100%;
 }
 
 .service__img{
-  width: 40%;
+  width: 100%;
 }
 
 .service__foot{
@@ -185,6 +185,7 @@ a {
   background-color:#CD0424;
   color: white;
   font-weight: bold;
+  
 }
 
 .news__ttl{
