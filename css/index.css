@@ -140,12 +140,16 @@ a {
 }
 
 .service__item{
-  width: 40%;
+  width: 100%;
   padding: 10px;
   margin: 10px;
 }
 
-.service__img img{
+.service__item__paragraph{
+  width: 40%;
+}
+
+.service__img{
   width: 40%;
 }
 
@@ -154,5 +158,6 @@ a {
   text-align: center;
   background-color:#CD0424;
   color: white;
-  padding: 20px;
+  font-weight: bold;
+  padding: 15px 30px;
 }
